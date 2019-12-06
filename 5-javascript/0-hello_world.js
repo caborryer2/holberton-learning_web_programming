@@ -1,1 +1,1 @@
-cosole.log("Betty Holberton")
+console.log("Betty Holberton")
