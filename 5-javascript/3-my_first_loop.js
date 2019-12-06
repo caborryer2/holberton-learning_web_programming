@@ -1,9 +1,6 @@
-function myFunction(){
-  var text = "";
-  var i = 0;
-  while (i < 11) {
-    text += "<br>" + i;
-    i++;
+let y = 0
+while (y <= 10) {
+  console.log(y)
+  y++
 
-  }
 }
