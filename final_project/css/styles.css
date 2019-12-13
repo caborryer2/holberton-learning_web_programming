@@ -1,0 +1,83 @@
+body {
+  background: #f2f2f2;
+  font-family: "Open Sans", sans-serif;
+}
+
+header {
+  margin-top: 30px;
+}
+
+header .nav {
+  min-height: 80px;
+  overflow: hidden;
+  background: white;
+}
+
+header .logo h2,
+header .logo span,
+header .log p {
+  font-size: 16px;
+  display: inline-block;
+  margin: 0;
+}
+
+header .logo h2 {
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+header.logo .icono {
+  color: #bfbfbf;
+}
+
+header .log p {
+  color: #777777;
+}
+
+header .menu {
+  padding: 0;
+}
+
+header .menu a {
+  display: block;
+  padding: 0 30px;
+  text-decoration: none;
+  color: #ffff;
+}
+
+header .menu a div span {
+  font-weight: 600;
+}
+header .menu .c-1 {
+  background: #3da5e2;
+}
+header .menu .c-2 {
+  background: #005385;
+}
+header .menu .c-3 {
+  background: #173141;
+}
+header .menu .c-4 {
+  background: rgba(2, 17, 13, 0.333);
+}
+
+header .menu .c-1:hover {
+  background: #1ba0bf;
+}
+header .menu .c-2:hover {
+  background: #377da8;
+}
+header .menu .c-3:hover {
+  background: #266f94;
+}
+header .menu .c-4:hover {
+  background: #0ba0bf;
+}
+
+.slider {
+  margin-bottom: 40px;
+}
+
+.slider .col {
+  padding: 0;
+}
